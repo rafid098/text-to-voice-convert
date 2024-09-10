@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#main{
+    background: teal;
+    padding: 250px 0;
+}
+.inputpart{
+    padding: 50px 50px;
+    width: 250px;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.inputpart input{
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    margin: 20px 0;
+}
+.inputpart button{
+    padding: 10px 20px;
+    background: tomato;
+    border: none;
+    border-radius: 10px;
+}
+.inputpart button:hover{
+    background: rgb(247, 124, 102);
+}
